@@ -1,6 +1,6 @@
 var cardNoel = {
-    name: "Noel Gallegher",
-    image: "https://i.pinimg.com/originals/c2/1a/ac/c21aacd5d092bf17cfff269091f04606.jpg",
+    name: "Noel Gallagher",
+    gif: "./gifs/noel-gallagher.gif",
     audio: "",
     attributes: {
         melody: 90,
@@ -11,40 +11,40 @@ var cardNoel = {
 
 var cardJimi = {
     name: "Jimi Hendrix",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/jimi-hendrix.gif",
     audio: "",
     attributes: {
-        melody: 80,
+        melody: 70,
         velocity: 80,
-        charism: 80
+        charism: 85
     }
 };
 
 var cardChimbinha = {
     name: "Chimbinha",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/chimbinha.gif",
     audio: "",
     attributes: {
         melody: 5,
-        velocity: 90,
-        charism: 70
+        velocity: 70,
+        charism: 50
     }
 };
 
 var cardBuckethead = {
     name: "Buckethead",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/buckethead.gif",
     audio: "",
     attributes: {
-        melody: 80,
-        velocity: 90,
-        charism: 95
+        melody: 100,
+        velocity: 100,
+        charism: 100
     }
 };
 
 var cardZack = {
     name: "Zack Wilde",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/zack-wilde.gif",
     audio: "",
     attributes: {
         melody: 85,
@@ -55,7 +55,7 @@ var cardZack = {
 
 var cardGeorge = {
     name: "George Harrison",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/george-harrison.gif",
     audio: "",
     attributes: {
         melody: 95,
@@ -66,18 +66,18 @@ var cardGeorge = {
 
 var cardSlash = {
     name: "Slash",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/slash.gif",
     audio: "",
     attributes: {
-        melody: 95,
-        velocity: 85,
-        charism: 75
+        melody: 83,
+        velocity: 78,
+        charism: 65
     }
 };
 
 var cardJimmy = {
     name: "Jimmy Page",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/jimmy-page.gif",
     audio: "",
     attributes: {
         melody: 85,
@@ -88,40 +88,40 @@ var cardJimmy = {
 
 var cardAngus = {
     name: "Angus Young",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/angus-young.gif",
     audio: "",
     attributes: {
-        melody: 75,
-        velocity: 80,
-        charism: 90
+        melody: 67,
+        velocity: 82,
+        charism: 78
     }
 };
 
 var cardEdge = {
     name: "The Edge",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/the-edge.gif",
     audio: "",
     attributes: {
-        melody: 70,
-        velocity: 70,
-        charism: 90
+        melody: 68,
+        velocity: 73,
+        charism: 87
     }
 };
 
 var cardEric = {
     name: "Eric Clapton",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/eric-clapton.gif",
     audio: "",
     attributes: {
         melody: 65,
-        velocity: 65,
-        charism: 85
+        velocity: 63,
+        charism: 88
     }
 };
 
 var cardKeith = {
     name: "Keith Richards",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/keith-richards.gif",
     audio: "",
     attributes: {
         melody: 80,
@@ -132,18 +132,18 @@ var cardKeith = {
 
 var cardDavid = {
     name: "David Gilmour",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/david-gilmour.gif",
     audio: "",
     attributes: {
-        melody: 100,
-        velocity: 100,
-        charism: 100
+        melody: 90,
+        velocity: 87,
+        charism: 70
     }
 };
 
 var cardEddie = {
     name: "Eddie Van Halen",
-    image: "http://4.bp.blogspot.com/-ZoCqleSAYNc/UQgfMdobjUI/AAAAAAAACP0/s_iiWjmw2Ys/s1600/001Bulbasaur_Dream.png",
+    gif: "./gifs/eddie-van-halen.gif",
     audio: "",
     attributes: {
         melody: 70,
@@ -155,6 +155,7 @@ var cardEddie = {
 var computerCard;
 var playerCard;
 var cards = [cardNoel, cardJimi, cardChimbinha, cardBuckethead, cardZack, cardGeorge, cardSlash, cardJimmy, cardAngus, cardEdge, cardEric, cardKeith, cardDavid, cardEddie];
+
 var playerPoints = 0;
 var computerPoints = 0;
 
@@ -192,7 +193,7 @@ function drawCard() {
 function displayPlayerCard() {
     var divPlayerCard = document.getElementById("player-card");
     var frame = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">';
-    divPlayerCard.style.backgroundImage = `url(${playerCard.image})`;
+    divPlayerCard.style.backgroundImage = `url(${playerCard.gif})`;
     var name = `<p class="card-subtitle">${playerCard.name}</p>`;
     var text = "";
     for (var attribute in playerCard.attributes) {
@@ -248,7 +249,7 @@ function play() {
 function displayComputerCard() {
     var divComputerCard = document.getElementById("computer-card");
     var frame = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">';
-    divComputerCard.style.backgroundImage = `url(${computerCard.image})`;
+    divComputerCard.style.backgroundImage = `url(${computerCard.gif})`;
     var name = `<p class="card-subtitle">${computerCard.name}</p>`;
     var text = "";
     for (var attribute in computerCard.attributes) {

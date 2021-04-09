@@ -137,8 +137,6 @@ var cards = [cardNoel, cardJimi, cardBuckethead, cardZack, cardGeorge, cardSlash
 var playerPoints = 0;
 var computerPoints = 0;
 
-// var round = 0;
-
 scoreboardUpdate();
 cardsAmountUpdate();
 
@@ -222,6 +220,7 @@ function getSelectedAttribute() {
     for (var i = 0; i < radioAttribute.length; i++) {
         if (radioAttribute[i].checked) {
             return radioAttribute[i].value;
+        }
     }
 }
 
